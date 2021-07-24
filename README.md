@@ -3,13 +3,12 @@
 
 **目录**
 
-[TOCM]
 
-[TOC]
-
-#运行方法
+运行方法
+=============
 本项目所运行的基本环境为主机windows 10 64位版本，树莓派要求内核版本为armv7l
-## 主机配置
+主机配置
+-------------
 安装驴车官方包
 `git clone https://github.com/autorope/donkeycar`
 `cd donkeycar`
